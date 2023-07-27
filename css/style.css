@@ -1,2 +1,7 @@
-#petitpotam{visibility:hidden;} 
+<<<<<<< HEAD
+#petitpotam{visibility:hidden;background-color:teal !important;font-size:18px;} 
 #petitpotam>span{border:red 1px solid;}
+=======
+#petitpotam{background-color:teal !important;} 
+#petitpotam>div{font-size:18px;}
+>>>>>>> Test
